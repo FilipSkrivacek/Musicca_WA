@@ -76,7 +76,7 @@ Musicca je webová aplikace určená pro blogování o hudebních novinkách a d
 
 4. Spusťte aplikaci na lokálním serveru (např. XAMPP nebo WAMP).
 
-5. Otevřete prohlížeč a přejděte na `http://localhost/musicca`.
+5. Otevřete prohlížeč a přejděte na `http://localhost/blogwa`.
 
 ## Příspěvky a podpora
 
