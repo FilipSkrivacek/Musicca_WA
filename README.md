@@ -36,10 +36,7 @@ Musicca je webová aplikace určená pro blogování o hudebních novinkách a d
 
 ## Instalace a spuštění
 
-1. Naklonujte si repozitář:
-    ```bash
-    git clone https://github.com/yourusername/musicca.git
-    ```
+1. Naklonujte si repozitář
 
 2. Importujte databázovou strukturu (soubor `dj_blog.sql` ve složce database) do MySQL.
 
